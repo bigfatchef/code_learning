@@ -1,0 +1,11 @@
+editor:
+  reason: edit your code
+
+  notepad
+  sublime
+
+programming:
+
+  ruby (file extension .rb)
+  irb -> interpreter (strg + d)
+  gem install <gem> installs libraries
