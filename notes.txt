@@ -9,3 +9,9 @@ programming:
   ruby (file extension .rb)
   irb -> interpreter (strg + d)
   gem install <gem> installs libraries
+
+ressources
+
+  1. https://www.codecademy.com/learn/ruby
+  2. http://eloquentruby.com/
+  3. https://www.railstutorial.org/book
